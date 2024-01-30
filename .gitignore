@@ -2,7 +2,7 @@
 /vendor/
 
 #Ignorer le dossier node_modlues
-/appart/node_modules
+/appart/node_modules/
 
 # Ignorer les fichiers spécifiques à Visual Studio Code
 .vscode/
