@@ -1,0 +1,15 @@
+# Ignorer les fichiers générés par Composer
+/vendor/
+
+#Ignorer le dossier node_modlues
+/appart/node_modules
+
+# Ignorer les fichiers spécifiques à Visual Studio Code
+.vscode/
+
+# Ignorer les fichiers de configuration de Visual Studio Code
+*.code-workspace
+*.code-workspace.backup
+
+# Ignorer les fichiers de sauvegarde automatique de Visual Studio Code
+*.vscode/

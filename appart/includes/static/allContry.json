@@ -1,0 +1,1859 @@
+{
+    "Jamaica": {
+        "code": "+1876",
+        "identifiant": "jm",
+        "nom": "Jamaica",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/jm.svg",
+        "flag_4x3": "flags/4x3/jm.svg"
+    },
+    "Saint Kitts & Nevis": {
+        "code": "+1869",
+        "identifiant": "kn",
+        "nom": "Saint Kitts & Nevis",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/kn.svg",
+        "flag_4x3": "flags/4x3/kn.svg"
+    },
+    "Trinidad & Tobago": {
+        "code": "+1868",
+        "identifiant": "tt",
+        "nom": "Trinidad & Tobago",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/tt.svg",
+        "flag_4x3": "flags/4x3/tt.svg"
+    },
+    "Saint Vincent & the Grenadines": {
+        "code": "+1784",
+        "identifiant": "vc",
+        "nom": "Saint Vincent & the Grenadines",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/vc.svg",
+        "flag_4x3": "flags/4x3/vc.svg"
+    },
+    "Dominica": {
+        "code": "+1767",
+        "identifiant": "dm",
+        "nom": "Dominica",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/dm.svg",
+        "flag_4x3": "flags/4x3/dm.svg"
+    },
+    "Saint Lucia": {
+        "code": "+1758",
+        "identifiant": "lc",
+        "nom": "Saint Lucia",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/lc.svg",
+        "flag_4x3": "flags/4x3/lc.svg"
+    },
+    "Sint Maarten": {
+        "code": "+1721",
+        "identifiant": "s0",
+        "nom": "Sint Maarten",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/sm.svg",
+        "flag_4x3": "flags/4x3/sm.svg"
+    },
+    "American Samoa": {
+        "code": "+1684",
+        "identifiant": "as",
+        "nom": "American Samoa",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/sm.svg",
+        "flag_4x3": "flags/4x3/sm.svg"
+    },
+    "Guam": {
+        "code": "+1671",
+        "identifiant": "gu",
+        "nom": "Guam",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/gu.svg",
+        "flag_4x3": "flags/4x3/gu.svg"
+    },
+    "Northern Mariana Islands": {
+        "code": "+1670",
+        "identifiant": "mp",
+        "nom": "Northern Mariana Islands",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/mp.svg",
+        "flag_4x3": "flags/4x3/mp.svg"
+    },
+    "Montserrat": {
+        "code": "+1664",
+        "identifiant": "ms",
+        "nom": "Montserrat",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/ms.svg",
+        "flag_4x3": "flags/4x3/ms.svg"
+    },
+    "Turks & Caicos Islands": {
+        "code": "+1649",
+        "identifiant": "tc",
+        "nom": "Turks & Caicos Islands",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/tc.svg",
+        "flag_4x3": "flags/4x3/tc.svg"
+    },
+    "renada": {
+        "code": "+1473",
+        "identifiant": "gd",
+        "nom": "Grenada",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/gd.svg",
+        "flag_4x3": "flags/4x3/gd.svg"
+    },
+    "Bermuda": {
+        "code": "+1441",
+        "identifiant": "bm",
+        "nom": "Bermuda",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/bm.svg",
+        "flag_4x3": "flags/4x3/bm.svg"
+    },
+    "Cayman Islands": {
+        "code": "+1345",
+        "identifiant": "ky",
+        "nom": "Cayman Islands",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/ky.svg",
+        "flag_4x3": "flags/4x3/ky.svg"
+    },
+    "US Virgin Islands": {
+        "code": "+1340",
+        "identifiant": "vi",
+        "nom": "US Virgin Islands",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/vi.svg",
+        "flag_4x3": "flags/4x3/vi.svg"
+    },
+    "British Virgin Islands": {
+        "code": "+1284",
+        "identifiant": "vg",
+        "nom": "British Virgin Islands",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/vg.svg",
+        "flag_4x3": "flags/4x3/vg.svg"
+    },
+    "Antigua & Barbuda": {
+        "code": "+1268",
+        "identifiant": "ag",
+        "nom": "Antigua & Barbuda",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/ag.svg",
+        "flag_4x3": "flags/4x3/ag.svg"
+    },
+    "Anguilla": {
+        "code": "+1264",
+        "identifiant": "ai",
+        "nom": "Anguilla",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/ai.svg",
+        "flag_4x3": "flags/4x3/ai.svg"
+    },
+    "Barbados": {
+        "code": "+1246",
+        "identifiant": "bb",
+        "nom": "Barbados",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/bb.svg",
+        "flag_4x3": "flags/4x3/bb.svg"
+    },
+    "Bahamas": {
+        "code": "+1242",
+        "identifiant": "bs",
+        "nom": "Bahamas",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/bs.svg",
+        "flag_4x3": "flags/4x3/bs.svg"
+    },
+    "Uzbekistan": {
+        "code": "+998",
+        "identifiant": "uz",
+        "nom": "Uzbekistan",
+        "nombre": "00 0000000",
+        "flag_1x1": "flags/1x1/uz.svg",
+        "flag_4x3": "flags/4x3/uz.svg"
+    },
+    "Kyrgyzstan": {
+        "code": "+996",
+        "identifiant": "kg",
+        "nom": "Kyrgyzstan",
+        "nombre": "000 000000",
+        "flag_1x1": "flags/1x1/kg.svg",
+        "flag_4x3": "flags/4x3/kg.svg"
+    },
+    "Georgia": {
+        "code": "+995",
+        "identifiant": "ge",
+        "nom": "Georgia",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/ge.svg",
+        "flag_4x3": "flags/4x3/ge.svg"
+    },
+    "Azerbaijan": {
+        "code": "+994",
+        "identifiant": "az",
+        "nom": "Azerbaijan",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/az.svg",
+        "flag_4x3": "flags/4x3/az.svg"
+    },
+    "Turkmenistan": {
+        "code": "+993",
+        "identifiant": "tm",
+        "nom": "Turkmenistan",
+        "nombre": "00 000000",
+        "flag_1x1": "flags/1x1/tm.svg",
+        "flag_4x3": "flags/4x3/tm.svg"
+    },
+    "Tajikistan": {
+        "code": "+992",
+        "identifiant": "tj",
+        "nom": "Tajikistan",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/tj.svg",
+        "flag_4x3": "flags/4x3/tj.svg"
+    },
+    "Nepal": {
+        "code": "+977",
+        "identifiant": "np",
+        "nom": "Nepal",
+        "nombre": "00 0000 0000",
+        "flag_1x1": "flags/1x1/np.svg",
+        "flag_4x3": "flags/4x3/np.svg"
+    },
+    "Mongolia": {
+        "code": "+976",
+        "identifiant": "mn",
+        "nom": "Mongolia",
+        "nombre": "00 00 0000",
+        "flag_1x1": "flags/1x1/mn.svg",
+        "flag_4x3": "flags/4x3/mn.svg"
+    },
+    "Bhutan": {
+        "code": "+975",
+        "identifiant": "bt",
+        "nom": "Bhutan",
+        "nombre": "00 000 000",
+        "flag_1x1": "flags/1x1/bt.svg",
+        "flag_4x3": "flags/4x3/bt.svg"
+    },
+    "Qatar": {
+        "code": "+974",
+        "identifiant": "qa",
+        "nom": "Qatar",
+        "nombre": "00 000 000",
+        "flag_1x1": "flags/1x1/qa.svg",
+        "flag_4x3": "flags/4x3/qa.svg"
+    },
+    "Bahrain": {
+        "code": "+973",
+        "identifiant": "bh",
+        "nom": "Bahrain",
+        "nombre": "0000 0000",
+        "flag_1x1": "flags/1x1/bh.svg",
+        "flag_4x3": "flags/4x3/bh.svg"
+    },
+    "Israel": {
+        "code": "+972",
+        "identifiant": "il",
+        "nom": "Israel",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/il.svg",
+        "flag_4x3": "flags/4x3/il.svg"
+    },
+    "United Arab Emirates": {
+        "code": "+971",
+        "identifiant": "ae",
+        "nom": "United Arab Emirates",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/ae.svg",
+        "flag_4x3": "flags/4x3/ae.svg"
+    },
+    "Palestine": {
+        "code": "+970",
+        "identifiant": "ps",
+        "nom": "Palestine",
+        "nombre": "000 00 0000",
+        "flag_1x1": "flags/1x1/ps.svg",
+        "flag_4x3": "flags/4x3/ps.svg"
+    },
+    "Oman": {
+        "code": "+968",
+        "identifiant": "om",
+        "nom": "Oman",
+        "nombre": "0000 0000",
+        "flag_1x1": "flags/1x1/om.svg",
+        "flag_4x3": "flags/4x3/om.svg"
+    },
+    "Yemen": {
+        "code": "+967",
+        "identifiant": "ye",
+        "nom": "Yemen",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/ye.svg",
+        "flag_4x3": "flags/4x3/ye.svg"
+    },
+    "Saudi Arabia": {
+        "code": "+966",
+        "identifiant": "sa",
+        "nom": "Saudi Arabia",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/sa.svg",
+        "flag_4x3": "flags/4x3/sa.svg"
+    },
+    "Kuwait": {
+        "code": "+965",
+        "identifiant": "kw",
+        "nom": "Kuwait",
+        "nombre": "0000 0000",
+        "flag_1x1": "flags/1x1/kw.svg",
+        "flag_4x3": "flags/4x3/kw.svg"
+    },
+    "Iraq": {
+        "code": "+964",
+        "identifiant": "iq",
+        "nom": "Iraq",
+        "nombre": "000 000 0000",
+        "flag_1x1": "flags/1x1/iq.svg",
+        "flag_4x3": "flags/4x3/iq.svg"
+    },
+    "Syria": {
+        "code": "+963",
+        "identifiant": "sy",
+        "nom": "Syria",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/sy.svg",
+        "flag_4x3": "flags/4x3/sy.svg"
+    },
+    "Jordan": {
+        "code": "+962",
+        "identifiant": "jo",
+        "nom": "Jordan",
+        "nombre": "0 0000 0000",
+        "flag_1x1": "flags/1x1/jo.svg",
+        "flag_4x3": "flags/4x3/jo.svg"
+    },
+    "Lebanon": {
+        "code": "+961",
+        "identifiant": "lB",
+        "nom": "Lebanon",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/lB.svg",
+        "flag_4x3": "flags/4x3/lB.svg"
+    },
+    "Maldives": {
+        "code": "+960",
+        "identifiant": "mv",
+        "nom": "Maldives",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/mv.svg",
+        "flag_4x3": "flags/4x3/mv.svg"
+    },
+    "Taiwan": {
+        "code": "+886",
+        "identifiant": "tw",
+        "nom": "Taiwan",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/tw.svg",
+        "flag_4x3": "flags/4x3/tw.svg"
+    },
+    "Bangladesh": {
+        "code": "+880",
+        "identifiant": "bD",
+        "nom": "Bangladesh",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/bD.svg",
+        "flag_4x3": "flags/4x3/bD.svg"
+    },
+    "Laos": {
+        "code": "+856",
+        "identifiant": "la",
+        "nom": "Laos",
+        "nombre": "00 00 000 000",
+        "flag_1x1": "flags/1x1/la.svg",
+        "flag_4x3": "flags/4x3/la.svg"
+    },
+    "Cambodia": {
+        "code": "+855",
+        "identifiant": "kH",
+        "nom": "Cambodia",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/kH.svg",
+        "flag_4x3": "flags/4x3/kH.svg"
+    },
+    "Macau": {
+        "code": "+853",
+        "identifiant": "mo",
+        "nom": "Macau",
+        "nombre": "0000 0000",
+        "flag_1x1": "flags/1x1/mo.svg",
+        "flag_4x3": "flags/4x3/mo.svg"
+    },
+    "Hong Kong": {
+        "code": "+852",
+        "identifiant": "hk",
+        "nom": "Hong Kong",
+        "nombre": "0 000 0000",
+        "flag_1x1": "flags/1x1/hk.svg",
+        "flag_4x3": "flags/4x3/hk.svg"
+    },
+    "North Korea": {
+        "code": "+850",
+        "identifiant": "kP",
+        "nom": "North Korea",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/kP.svg",
+        "flag_4x3": "flags/4x3/kP.svg"
+    },
+    "Marshall Islands": {
+        "code": "+692",
+        "identifiant": "mH",
+        "nom": "Marshall Islands",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/mH.svg",
+        "flag_4x3": "flags/4x3/mH.svg"
+    },
+    "Micronesia": {
+        "code": "+691",
+        "identifiant": "fM",
+        "nom": "Micronesia",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/fM.svg",
+        "flag_4x3": "flags/4x3/fM.svg"
+    },
+    "Tokelau": {
+        "code": "+690",
+        "identifiant": "tK",
+        "nom": "Tokelau",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/tK.svg",
+        "flag_4x3": "flags/4x3/tK.svg"
+    },
+    "French Polynesia": {
+        "code": "+689",
+        "identifiant": "pF",
+        "nom": "French Polynesia",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/pF.svg",
+        "flag_4x3": "flags/4x3/pF.svg"
+    },
+    "Tuvalu": {
+        "code": "+688",
+        "identifiant": "tV",
+        "nom": "Tuvalu",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/tV.svg",
+        "flag_4x3": "flags/4x3/tV.svg"
+    },
+    "New Caledonia": {
+        "code": "+687",
+        "identifiant": "nC",
+        "nom": "New Caledonia",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/nC.svg",
+        "flag_4x3": "flags/4x3/nC.svg"
+    },
+    "Kiribati": {
+        "code": "+686",
+        "identifiant": "kI",
+        "nom": "Kiribati",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/kI.svg",
+        "flag_4x3": "flags/4x3/kI.svg"
+    },
+    "Samoa": {
+        "code": "+685",
+        "identifiant": "wS",
+        "nom": "Samoa",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/sm.svg",
+        "flag_4x3": "flags/4x3/sm.svg"
+    },
+    "Niue": {
+        "code": "+683",
+        "identifiant": "nU",
+        "nom": "Niue",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/nU.svg",
+        "flag_4x3": "flags/4x3/nU.svg"
+    },
+    "Cook Islands": {
+        "code": "+682",
+        "identifiant": "cK",
+        "nom": "Cook Islands",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/cK.svg",
+        "flag_4x3": "flags/4x3/cK.svg"
+    },
+    "Wallis & Futuna": {
+        "code": "+681",
+        "identifiant": "wF",
+        "nom": "Wallis & Futuna",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/wF.svg",
+        "flag_4x3": "flags/4x3/wF.svg"
+    },
+    "Palau": {
+        "code": "+680",
+        "identifiant": "pW",
+        "nom": "Palau",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/pW.svg",
+        "flag_4x3": "flags/4x3/pW.svg"
+    },
+    "Fiji": {
+        "code": "+679",
+        "identifiant": "fJ",
+        "nom": "Fiji",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/fJ.svg",
+        "flag_4x3": "flags/4x3/fJ.svg"
+    },
+    "Vanuatu": {
+        "code": "+678",
+        "identifiant": "vU",
+        "nom": "Vanuatu",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/vU.svg",
+        "flag_4x3": "flags/4x3/vU.svg"
+    },
+    "Solomon Islands": {
+        "code": "+677",
+        "identifiant": "sB",
+        "nom": "Solomon Islands",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/sB.svg",
+        "flag_4x3": "flags/4x3/sB.svg"
+    },
+    "Tonga": {
+        "code": "+676",
+        "identifiant": "tO",
+        "nom": "Tonga",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/tO.svg",
+        "flag_4x3": "flags/4x3/tO.svg"
+    },
+    "Papua New Guinea": {
+        "code": "+675",
+        "identifiant": "pG",
+        "nom": "Papua New Guinea",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/pG.svg",
+        "flag_4x3": "flags/4x3/pG.svg"
+    },
+    "Nauru": {
+        "code": "+674",
+        "identifiant": "nR",
+        "nom": "Nauru",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/nR.svg",
+        "flag_4x3": "flags/4x3/nR.svg"
+    },
+    "Brunei Darussalam": {
+        "code": "+673",
+        "identifiant": "bn",
+        "nom": "Brunei Darussalam",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/bn.svg",
+        "flag_4x3": "flags/4x3/bn.svg"
+    },
+    "Norfolk Island": {
+        "code": "+672",
+        "identifiant": "nF",
+        "nom": "Norfolk Island",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/nF.svg",
+        "flag_4x3": "flags/4x3/nF.svg"
+    },
+    "Timor-Leste": {
+        "code": "+670",
+        "identifiant": "tL",
+        "nom": "Timor-Leste",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/tL.svg",
+        "flag_4x3": "flags/4x3/tL.svg"
+    },
+    "Bonaire, Sint Eustatius & Saba": {
+        "code": "+599",
+        "identifiant": "bQ",
+        "nom": "Bonaire, Sint Eustatius & Saba",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/bQ.svg",
+        "flag_4x3": "flags/4x3/bQ.svg"
+    },
+    "Curagao": {
+        "code": "+599",
+        "identifiant": "cW",
+        "nom": "Curagao",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/cW.svg",
+        "flag_4x3": "flags/4x3/cW.svg"
+    },
+    "Uruguay": {
+        "code": "+598",
+        "identifiant": "uy",
+        "nom": "Uruguay",
+        "nombre": "0 000 0000",
+        "flag_1x1": "flags/1x1/uy.svg",
+        "flag_4x3": "flags/4x3/uy.svg"
+    },
+    "Suriname": {
+        "code": "+597",
+        "identifiant": "sr",
+        "nom": "Suriname",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/sr.svg",
+        "flag_4x3": "flags/4x3/sr.svg"
+    },
+    "Martinique": {
+        "code": "+596",
+        "identifiant": "mQ",
+        "nom": "Martinique",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/mQ.svg",
+        "flag_4x3": "flags/4x3/mQ.svg"
+    },
+    "Paraguay": {
+        "code": "+595",
+        "identifiant": "py",
+        "nom": "Paraguay",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/py.svg",
+        "flag_4x3": "flags/4x3/py.svg"
+    },
+    "French Guiana": {
+        "code": "+594",
+        "identifiant": "gF",
+        "nom": "French Guiana",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/gF.svg",
+        "flag_4x3": "flags/4x3/gF.svg"
+    },
+    "Ecuador": {
+        "code": "+593",
+        "identifiant": "ec",
+        "nom": "Ecuador",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/ec.svg",
+        "flag_4x3": "flags/4x3/ec.svg"
+    },
+    "Guyana": {
+        "code": "+592",
+        "identifiant": "gY",
+        "nom": "Guyana",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/gY.svg",
+        "flag_4x3": "flags/4x3/gY.svg"
+    },
+    "Bolivia": {
+        "code": "+591",
+        "identifiant": "bo",
+        "nom": "Bolivia",
+        "nombre": "0 000 0000",
+        "flag_1x1": "flags/1x1/bo.svg",
+        "flag_4x3": "flags/4x3/bo.svg"
+    },
+    "Guadeloupe": {
+        "code": "+590",
+        "identifiant": "gp",
+        "nom": "Guadeloupe",
+        "nombre": "000 00 00 00",
+        "flag_1x1": "flags/1x1/gp.svg",
+        "flag_4x3": "flags/4x3/gp.svg"
+    },
+    "Haiti": {
+        "code": "+509",
+        "identifiant": "hT",
+        "nom": "Haiti",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/hT.svg",
+        "flag_4x3": "flags/4x3/hT.svg"
+    },
+    "Saint Pierre & Miquelon": {
+        "code": "+508",
+        "identifiant": "pM",
+        "nom": "Saint Pierre & Miquelon",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/pM.svg",
+        "flag_4x3": "flags/4x3/pM.svg"
+    },
+    "Panama": {
+        "code": "+507",
+        "identifiant": "pa",
+        "nom": "Panama",
+        "nombre": "0000 0000",
+        "flag_1x1": "flags/1x1/pa.svg",
+        "flag_4x3": "flags/4x3/pa.svg"
+    },
+    "Costa Rica": {
+        "code": "+506",
+        "identifiant": "cr",
+        "nom": "Costa Rica",
+        "nombre": "0000 0000",
+        "flag_1x1": "flags/1x1/cr.svg",
+        "flag_4x3": "flags/4x3/cr.svg"
+    },
+    "Nicaragua": {
+        "code": "+505",
+        "identifiant": "ni",
+        "nom": "Nicaragua",
+        "nombre": "0000 0000",
+        "flag_1x1": "flags/1x1/ni.svg",
+        "flag_4x3": "flags/4x3/ni.svg"
+    },
+    "Honduras": {
+        "code": "+504",
+        "identifiant": "hn",
+        "nom": "Honduras",
+        "nombre": "0000 0000",
+        "flag_1x1": "flags/1x1/hn.svg",
+        "flag_4x3": "flags/4x3/hn.svg"
+    },
+    "El Salvador": {
+        "code": "+503",
+        "identifiant": "sv",
+        "nom": "El Salvador",
+        "nombre": "0000 0000",
+        "flag_1x1": "flags/1x1/sv.svg",
+        "flag_4x3": "flags/4x3/sv.svg"
+    },
+    "Guatemala": {
+        "code": "+502",
+        "identifiant": "gt",
+        "nom": "Guatemala",
+        "nombre": "0 000 0000",
+        "flag_1x1": "flags/1x1/gt.svg",
+        "flag_4x3": "flags/4x3/gt.svg"
+    },
+    "Belize": {
+        "code": "+501",
+        "identifiant": "bZ",
+        "nom": "Belize",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/bZ.svg",
+        "flag_4x3": "flags/4x3/bZ.svg"
+    },
+    "Falkland Islands": {
+        "code": "+500",
+        "identifiant": "fK",
+        "nom": "Falkland Islands",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/fK.svg",
+        "flag_4x3": "flags/4x3/fK.svg"
+    },
+    "Liechtenstein": {
+        "code": "+423",
+        "identifiant": "lI",
+        "nom": "Liechtenstein",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/lI.svg",
+        "flag_4x3": "flags/4x3/lI.svg"
+    },
+    "Slovakia": {
+        "code": "+421",
+        "identifiant": "sk",
+        "nom": "Slovakia",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/sk.svg",
+        "flag_4x3": "flags/4x3/sk.svg"
+    },
+    "Czech Republic": {
+        "code": "+420",
+        "identifiant": "cz",
+        "nom": "Czech Republic",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/cz.svg",
+        "flag_4x3": "flags/4x3/cz.svg"
+    },
+    "Macedonia": {
+        "code": "+389",
+        "identifiant": "mk",
+        "nom": "Macedonia",
+        "nombre": "00 000 000",
+        "flag_1x1": "flags/1x1/mk.svg",
+        "flag_4x3": "flags/4x3/mk.svg"
+    },
+    
+    "bosnia & Herzegovina": {
+        "code": "+387",
+        "identifiant": "ba",
+        "nom": "Bosnia & Herzegovina",
+        "nombre": "00 000 000",
+        "flag_1x1": "flags/1x1/ba.svg",
+        "flag_4x3": "flags/4x3/ba.svg"
+    },
+    "lovenia": {
+      "code": "+386",
+        "identifiant": "si",
+        "nom": "Slovenia",
+        "nombre": "00 000 000",
+        "flag_1x1": "flags/1x1/si.svg",
+        "flag_4x3": "flags/4x3/si.svg"
+    },
+    "Croatia": {
+        "code": "+385",
+        "identifiant": "hR",
+        "nom": "Croatia",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/hR.svg",
+        "flag_4x3": "flags/4x3/hR.svg"
+    },
+    "Kosovo": {
+        "code": "+383",
+        "identifiant": "0k",
+        "nom": "Kosovo",
+        "nombre": "0000 0000",
+        "flag_1x1": "flags/1x1/km.svg",
+        "flag_4x3": "flags/4x3/km.svg"
+    },
+    "Montenegro": {
+        "code": "+382",
+        "identifiant": "mE",
+        "nom": "Montenegro",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/mE.svg",
+        "flag_4x3": "flags/4x3/mE.svg"
+    },
+    "Serbia": {
+        "code": "+381",
+        "identifiant": "rs",
+        "nom": "Serbia",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/rs.svg",
+        "flag_4x3": "flags/4x3/rs.svg"
+    },
+    "Ukraine": {
+        "code": "+380",
+        "identifiant": "ua",
+        "nom": "Ukraine",
+        "nombre": "00 000 00 00",
+        "flag_1x1": "flags/1x1/ua.svg",
+        "flag_4x3": "flags/4x3/ua.svg"
+    },
+    "San Marino": {
+        "code": "+378",
+        "identifiant": "sm",
+        "nom": "San Marino",
+        "nombre": "000 000 0000",
+        "flag_1x1": "flags/1x1/sm.svg",
+        "flag_4x3": "flags/4x3/sm.svg"
+    },
+    "Monaco": {
+        "code": "+377",
+        "identifiant": "mc",
+        "nom": "Monaco",
+        "nombre": "0000 0000",
+        "flag_1x1": "flags/1x1/mc.svg",
+        "flag_4x3": "flags/4x3/mc.svg"
+    },
+    "Andorra": {
+        "code": "+376",
+        "identifiant": "ad",
+        "nom": "Andorra",
+        "nombre": "00 00 00",
+        "flag_1x1": "flags/1x1/ad.svg",
+        "flag_4x3": "flags/4x3/ad.svg"
+    },
+    "Belarus": {
+        "code": "+375",
+        "identifiant": "by",
+        "nom": "Belarus",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/by.svg",
+        "flag_4x3": "flags/4x3/by.svg"
+    },
+    "Armenia": {
+        "code": "+374",
+        "identifiant": "am",
+        "nom": "Armenia",
+        "nombre": "00 000 000",
+        "flag_1x1": "flags/1x1/am.svg",
+        "flag_4x3": "flags/4x3/am.svg"
+    },
+    "Moldova": {
+        "code": "+373",
+        "identifiant": "md",
+        "nom": "Moldova",
+        "nombre": "00 000 000",
+        "flag_1x1": "flags/1x1/md.svg",
+        "flag_4x3": "flags/4x3/md.svg"
+    },
+    "Estonia": {
+        "code": "+372",
+        "identifiant": "eE",
+        "nom": "Estonia",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/eE.svg",
+        "flag_4x3": "flags/4x3/eE.svg"
+    },
+    "Latvia": {
+        "code": "+371",
+        "identifiant": "lv",
+        "nom": "Latvia",
+        "nombre": "000 00000",
+        "flag_1x1": "flags/1x1/lv.svg",
+        "flag_4x3": "flags/4x3/lv.svg"
+    },
+    "Lithuania": {
+        "code": "+370",
+        "identifiant": "lt",
+        "nom": "Lithuania",
+        "nombre": "000 00000",
+        "flag_1x1": "flags/1x1/lt.svg",
+        "flag_4x3": "flags/4x3/lt.svg"
+    },
+    "Bulgaria": {
+        "code": "+359",
+        "identifiant": "bG",
+        "nom": "Bulgaria",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/bG.svg",
+        "flag_4x3": "flags/4x3/bG.svg"
+    },
+    "Finland": {
+        "code": "+358",
+        "identifiant": "fI",
+        "nom": "Finland",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/fI.svg",
+        "flag_4x3": "flags/4x3/fI.svg"
+    },
+    "Cyprus": {
+        "code": "+357",
+        "identifiant": "cy",
+        "nom": "Cyprus",
+        "nombre": "0000 0000",
+        "flag_1x1": "flags/1x1/cy.svg",
+        "flag_4x3": "flags/4x3/cy.svg"
+    },
+    "Malta": {
+        "code": "+356",
+        "identifiant": "mt",
+        "nom": "Malta",
+        "nombre": "00 00 00 00",
+        "flag_1x1": "flags/1x1/mt.svg",
+        "flag_4x3": "flags/4x3/mt.svg"
+    },
+    "Albania": {
+        "code": "+355",
+        "identifiant": "al",
+        "nom": "Albania",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/al.svg",
+        "flag_4x3": "flags/4x3/al.svg"
+    },
+    "Iceland": {
+        "code": "+354",
+        "identifiant": "is",
+        "nom": "Iceland",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/is.svg",
+        "flag_4x3": "flags/4x3/is.svg"
+    },
+    "Ireland": {
+        "code": "+353",
+        "identifiant": "ie",
+        "nom": "Ireland",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/ie.svg",
+        "flag_4x3": "flags/4x3/ie.svg"
+    },
+    "Lu0embourg": {
+        "code": "+352",
+        "identifiant": "lu",
+        "nom": "Lu0embourg",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/lu.svg",
+        "flag_4x3": "flags/4x3/lu.svg"
+    },
+    "Portugal": {
+        "code": "+351",
+        "identifiant": "pt",
+        "nom": "Portugal",
+        "nombre": "0 0000 0000",
+        "flag_1x1": "flags/1x1/pt.svg",
+        "flag_4x3": "flags/4x3/pt.svg"
+    },
+    "Gibraltar": {
+        "code": "+350",
+        "identifiant": "gi",
+        "nom": "Gibraltar",
+        "nombre": "0000 0000",
+        "flag_1x1": "flags/1x1/gi.svg",
+        "flag_4x3": "flags/4x3/gi.svg"
+    },
+    "Greenland": {
+        "code": "+299",
+        "identifiant": "gl",
+        "nom": "Greenland",
+        "nombre": "000 000",
+        "flag_1x1": "flags/1x1/gl.svg",
+        "flag_4x3": "flags/4x3/gl.svg"
+    },
+    "Faroe Islands": {
+        "code": "+298",
+        "identifiant": "fo",
+        "nom": "Faroe Islands",
+        "nombre": "000 000",
+        "flag_1x1": "flags/1x1/fo.svg",
+        "flag_4x3": "flags/4x3/fo.svg"
+    },
+    "Aruba": {
+        "code": "+297",
+        "identifiant": "aw",
+        "nom": "Aruba",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/aw.svg",
+        "flag_4x3": "flags/4x3/aw.svg"
+    },
+    "Eritrea": {
+        "code": "+291",
+        "identifiant": "er",
+        "nom": "Eritrea",
+        "nombre": "0 000 000",
+        "flag_1x1": "flags/1x1/er.svg",
+        "flag_4x3": "flags/4x3/er.svg"
+    },
+    "Saint Helena": {
+        "code": "+290",
+        "identifiant": "sh",
+        "nom": "Saint Helena",
+        "nombre": "00 000",
+        "flag_1x1": "flags/1x1/sh.svg",
+        "flag_4x3": "flags/4x3/sh.svg"
+    },
+    "Comoros": {
+        "code": "+269",
+        "identifiant": "km",
+        "nom": "Comoros",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/km.svg",
+        "flag_4x3": "flags/4x3/km.svg"
+    },
+    "Swaziland": {
+        "code": "+268",
+        "identifiant": "sz",
+        "nom": "Swaziland",
+        "nombre": "0000 0000",
+        "flag_1x1": "flags/1x1/sz.svg",
+        "flag_4x3": "flags/4x3/sz.svg"
+    },
+    "Botswana": {
+        "code": "+267",
+        "identifiant": "bw",
+        "nom": "Botswana",
+        "nombre": "00 000 000",
+        "flag_1x1": "flags/1x1/bw.svg",
+        "flag_4x3": "flags/4x3/bw.svg"
+    },
+    "Lesotho": {
+        "code": "+266",
+        "identifiant": "ls",
+        "nom": "Lesotho",
+        "nombre": "00 000 000",
+        "flag_1x1": "flags/1x1/ls.svg",
+        "flag_4x3": "flags/4x3/ls.svg"
+    },
+    "Malawi": {
+        "code": "+265",
+        "identifiant": "mw",
+        "nom": "Malawi",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/mw.svg",
+        "flag_4x3": "flags/4x3/mw.svg"
+    },
+    "Namibia": {
+        "code": "+264",
+        "identifiant": "na",
+        "nom": "Namibia",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/na.svg",
+        "flag_4x3": "flags/4x3/na.svg"
+    },
+    "Zimbabwe": {
+        "code": "+263",
+        "identifiant": "zw",
+        "nom": "Zimbabwe",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/zw.svg",
+        "flag_4x3": "flags/4x3/zw.svg"
+    },
+    "runion": {
+        "code": "+262",
+        "identifiant": "re",
+        "nom": "Runion",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/re.svg",
+        "flag_4x3": "flags/4x3/re.svg"
+    },
+    "Madagascar": {
+        "code": "+261",
+        "identifiant": "mg",
+        "nom": "Madagascar",
+        "nombre": "00 00 000 00",
+        "flag_1x1": "flags/1x1/mg.svg",
+        "flag_4x3": "flags/4x3/mg.svg"
+    },
+    "Zambia": {
+        "code": "+260",
+        "identifiant": "zm",
+        "nom": "Zambia",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/zm.svg",
+        "flag_4x3": "flags/4x3/zm.svg"
+    },
+    "Mozambique": {
+        "code": "+258",
+        "identifiant": "mz",
+        "nom": "Mozambique",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/mz.svg",
+        "flag_4x3": "flags/4x3/mz.svg"
+    },
+    "Burundi": {
+        "code": "+257",
+        "identifiant": "bi",
+        "nom": "Burundi",
+        "nombre": "00 00 0000",
+        "flag_1x1": "flags/1x1/bi.svg",
+        "flag_4x3": "flags/4x3/bi.svg"
+    },
+    "Uganda": {
+        "code": "+256",
+        "identifiant": "ug",
+        "nom": "Uganda",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/ug.svg",
+        "flag_4x3": "flags/4x3/ug.svg"
+    },
+    "Tanzania": {
+        "code": "+255",
+        "identifiant": "tz",
+        "nom": "Tanzania",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/tz.svg",
+        "flag_4x3": "flags/4x3/tz.svg"
+    },
+    "Kenya": {
+        "code": "+254",
+        "identifiant": "ke",
+        "nom": "Kenya",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/ke.svg",
+        "flag_4x3": "flags/4x3/ke.svg"
+    },
+    "Djibouti": {
+        "code": "+253",
+        "identifiant": "dj",
+        "nom": "Djibouti",
+        "nombre": "00 00 00 00",
+        "flag_1x1": "flags/1x1/dj.svg",
+        "flag_4x3": "flags/4x3/dj.svg"
+    },
+    "Somalia": {
+        "code": "+252",
+        "identifiant": "so",
+        "nom": "Somalia",
+        "nombre": "00 000 000",
+        "flag_1x1": "flags/1x1/so.svg",
+        "flag_4x3": "flags/4x3/so.svg"
+    },
+    "Ethiopia": {
+        "code": "+251",
+        "identifiant": "et",
+        "nom": "Ethiopia",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/et.svg",
+        "flag_4x3": "flags/4x3/et.svg"
+    },
+    "Rwanda": {
+        "code": "+250",
+        "identifiant": "rw",
+        "nom": "Rwanda",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/rw.svg",
+        "flag_4x3": "flags/4x3/rw.svg"
+    },
+    "Sudan": {
+        "code": "+249",
+        "identifiant": "sd",
+        "nom": "Sudan",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/sd.svg",
+        "flag_4x3": "flags/4x3/sd.svg"
+    },
+    "Seychelles": {
+        "code": "+248",
+        "identifiant": "sc",
+        "nom": "Seychelles",
+        "nombre": "0 00 00 00",
+        "flag_1x1": "flags/1x1/sc.svg",
+        "flag_4x3": "flags/4x3/sc.svg"
+    },
+    "Diego Garcia": {
+        "code": "+246",
+        "identifiant": "io",
+        "nom": "Diego Garcia",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/io.svg",
+        "flag_4x3": "flags/4x3/io.svg"
+    },
+    "Guinea-Bissau": {
+        "code": "+245",
+        "identifiant": "gw",
+        "nom": "Guinea-Bissau",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/gw.svg",
+        "flag_4x3": "flags/4x3/gw.svg"
+    },
+    "Angola": {
+        "code": "+244",
+        "identifiant": "ao",
+        "nom": "Angola",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/ao.svg",
+        "flag_4x3": "flags/4x3/ao.svg"
+    },
+    "Congo (Dem. Rep.)": {
+        "code": "+243",
+        "identifiant": "cd",
+        "nom": "Congo (Dem. Rep.)",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/cd.svg",
+        "flag_4x3": "flags/4x3/cd.svg"
+    },
+    "Congo (Rep.)": {
+        "code": "+242",
+        "identifiant": "cg",
+        "nom": "Congo (Rep.)",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/cg.svg",
+        "flag_4x3": "flags/4x3/cg.svg"
+    },
+    "Gabon": {
+        "code": "+241",
+        "identifiant": "ga",
+        "nom": "Gabon",
+        "nombre": "0 00 00 00",
+        "flag_1x1": "flags/1x1/ga.svg",
+        "flag_4x3": "flags/4x3/ga.svg"
+    },
+    "Equatorial Guinea": {
+        "code": "+240",
+        "identifiant": "gq",
+        "nom": "Equatorial Guinea",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/gq.svg",
+        "flag_4x3": "flags/4x3/gq.svg"
+    },
+    "So Tom & Predncipe": {
+        "code": "+239",
+        "identifiant": "st",
+        "nom": "So Tom & Predncipe",
+        "nombre": "00 00000",
+        "flag_1x1": "flags/1x1/st.svg",
+        "flag_4x3": "flags/4x3/st.svg"
+    },
+    "Cape Verde": {
+        "code": "+238",
+        "identifiant": "cv",
+        "nom": "Cape Verde",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/cv.svg",
+        "flag_4x3": "flags/4x3/cv.svg"
+    },
+    "Cameroon": {
+        "code": "+237",
+        "identifiant": "cm",
+        "nom": "Cameroon",
+        "nombre": "0000 0000",
+        "flag_1x1": "flags/1x1/cm.svg",
+        "flag_4x3": "flags/4x3/cm.svg"
+    },
+    "Central African Rep.": {
+        "code": "+236",
+        "identifiant": "cf",
+        "nom": "Central African Rep.",
+        "nombre": "00 00 00 00",
+        "flag_1x1": "flags/1x1/cf.svg",
+        "flag_4x3": "flags/4x3/cf.svg"
+    },
+    "Chad": {
+        "code": "+235",
+        "identifiant": "td",
+        "nom": "Chad",
+        "nombre": "00 00 00 00",
+        "flag_1x1": "flags/1x1/td.svg",
+        "flag_4x3": "flags/4x3/td.svg"
+    },
+    "Nigeria": {
+        "code": "+234",
+        "identifiant": "nG",
+        "nom": "Nigeria",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/nG.svg",
+        "flag_4x3": "flags/4x3/nG.svg"
+    },
+    "Ghana": {
+        "code": "+233",
+        "identifiant": "gH",
+        "nom": "Ghana",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/gH.svg",
+        "flag_4x3": "flags/4x3/gH.svg"
+    },
+    "Sierra Leone": {
+        "code": "+232",
+        "identifiant": "sl",
+        "nom": "Sierra Leone",
+        "nombre": "00 000 000",
+        "flag_1x1": "flags/1x1/sl.svg",
+        "flag_4x3": "flags/4x3/sl.svg"
+    },
+    "Liberia": {
+        "code": "+231",
+        "identifiant": "lR",
+        "nom": "Liberia",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/lR.svg",
+        "flag_4x3": "flags/4x3/lR.svg"
+    },
+    "Mauritius": {
+        "code": "+230",
+        "identifiant": "mU",
+        "nom": "Mauritius",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/mU.svg",
+        "flag_4x3": "flags/4x3/mU.svg"
+    },
+    "Benin": {
+        "code": "+229",
+        "identifiant": "bj",
+        "nom": "Benin",
+        "nombre": "00 000 000",
+        "flag_1x1": "flags/1x1/bj.svg",
+        "flag_4x3": "flags/4x3/bj.svg"
+    },
+    "Togo": {
+        "code": "+228",
+        "identifiant": "tg",
+        "nom": "Togo",
+        "nombre": "00 000 000",
+        "flag_1x1": "flags/1x1/tg.svg",
+        "flag_4x3": "flags/4x3/tg.svg"
+    },
+    "Niger": {
+        "code": "+227",
+        "identifiant": "ne",
+        "nom": "Niger",
+        "nombre": "00 00 00 00",
+        "flag_1x1": "flags/1x1/ne.svg",
+        "flag_4x3": "flags/4x3/ne.svg"
+    },
+    "Burkina Faso": {
+        "code": "+226",
+        "identifiant": "bf",
+        "nom": "Burkina Faso",
+        "nombre": "00 00 00 00",
+        "flag_1x1": "flags/1x1/bf.svg",
+        "flag_4x3": "flags/4x3/bf.svg"
+    },
+    "Cote d`Ivoire": {
+        "code": "+225",
+        "identifiant": "ci",
+        "nom": "Cote d`Ivoire",
+        "nombre": "00 000 000",
+        "flag_1x1": "flags/1x1/ci.svg",
+        "flag_4x3": "flags/4x3/ci.svg"
+    },
+    "Guinea": {
+        "code": "+224",
+        "identifiant": "gn",
+        "nom": "Guinea",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/gn.svg",
+        "flag_4x3": "flags/4x3/gn.svg"
+    },
+    "Mali": {
+        "code": "+223",
+        "identifiant": "ml",
+        "nom": "Mali",
+        "nombre": "0000 0000",
+        "flag_1x1": "flags/1x1/ml.svg",
+        "flag_4x3": "flags/4x3/ml.svg"
+    },
+    "Mauritania": {
+        "code": "+222",
+        "identifiant": "mr",
+        "nom": "Mauritania",
+        "nombre": "0000 0000",
+        "flag_1x1": "flags/1x1/mr.svg",
+        "flag_4x3": "flags/4x3/mr.svg"
+    },
+    "Senegal": {
+        "code": "+221",
+        "identifiant": "sn",
+        "nom": "Senegal",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/sn.svg",
+        "flag_4x3": "flags/4x3/sn.svg"
+    },
+    "Gambia": {
+        "code": "+220",
+        "identifiant": "gm",
+        "nom": "Gambia",
+        "nombre": "000 0000",
+        "flag_1x1": "flags/1x1/gm.svg",
+        "flag_4x3": "flags/4x3/gm.svg"
+    },
+    "Libya": {
+        "code": "+218",
+        "identifiant": "ly",
+        "nom": "Libya",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/ly.svg",
+        "flag_4x3": "flags/4x3/ly.svg"
+    },
+    "Tunisia": {
+        "code": "+216",
+        "identifiant": "tn",
+        "nom": "Tunisia",
+        "nombre": "00 000 000",
+        "flag_1x1": "flags/1x1/tn.svg",
+        "flag_4x3": "flags/4x3/tn.svg"
+    },
+    "Algeria": {
+        "code": "+213",
+        "identifiant": "dz",
+        "nom": "Algeria",
+        "nombre": "000 00 00 00",
+        "flag_1x1": "flags/1x1/dz.svg",
+        "flag_4x3": "flags/4x3/dz.svg"
+    },
+    "Morocco": {
+        "code": "+212",
+        "identifiant": "ma",
+        "nom": "Morocco",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/ma.svg",
+        "flag_4x3": "flags/4x3/ma.svg"
+    },
+    "South Sudan": {
+        "code": "+211",
+        "identifiant": "ss",
+        "nom": "South Sudan",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/ss.svg",
+        "flag_4x3": "flags/4x3/ss.svg"
+    },
+    "Iran": {
+        "code": "+98",
+        "identifiant": "ir",
+        "nom": "Iran",
+        "nombre": "000 000 0000",
+        "flag_1x1": "flags/1x1/ir.svg",
+        "flag_4x3": "flags/4x3/ir.svg"
+    },
+    "Myanmar": {
+        "code": "+95",
+        "identifiant": "mM",
+        "nom": "Myanmar",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/mM.svg",
+        "flag_4x3": "flags/4x3/mM.svg"
+    },
+    "Sri Lanka": {
+        "code": "+94",
+        "identifiant": "lk",
+        "nom": "Sri Lanka",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/lk.svg",
+        "flag_4x3": "flags/4x3/lk.svg"
+    },
+    "Afghanistan": {
+        "code": "+93",
+        "identifiant": "af",
+        "nom": "Afghanistan",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/af.svg",
+        "flag_4x3": "flags/4x3/af.svg"
+    },
+    "Pakistan": {
+        "code": "+92",
+        "identifiant": "pk",
+        "nom": "Pakistan",
+        "nombre": "000 000 0000",
+        "flag_1x1": "flags/1x1/pk.svg",
+        "flag_4x3": "flags/4x3/pk.svg"
+    },
+    "India": {
+        "code": "+91",
+        "identifiant": "in",
+        "nom": "India",
+        "nombre": "00000 00000",
+        "flag_1x1": "flags/1x1/in.svg",
+        "flag_4x3": "flags/4x3/in.svg"
+    },
+    "Turkey": {
+        "code": "+90",
+        "identifiant": "tr",
+        "nom": "Turkey",
+        "nombre": "000 000 0000",
+        "flag_1x1": "flags/1x1/tr.svg",
+        "flag_4x3": "flags/4x3/tr.svg"
+    },
+    "China": {
+        "code": "+86",
+        "identifiant": "cn",
+        "nom": "China",
+        "nombre": "000 0000 0000",
+        "flag_1x1": "flags/1x1/cn.svg",
+        "flag_4x3": "flags/4x3/cn.svg"
+    },
+    "Vietnam": {
+        "code": "+84",
+        "identifiant": "vN",
+        "nom": "Vietnam",
+        "nombre": "000 000 00",
+        "flag_1x1": "flags/1x1/vN.svg",
+        "flag_4x3": "flags/4x3/vN.svg"
+    },
+    "South Korea": {
+        "code": "+82",
+        "identifiant": "kR",
+        "nom": "South Korea",
+        "nombre": "000 000 00",
+        "flag_1x1": "flags/1x1/kR.svg",
+        "flag_4x3": "flags/4x3/kR.svg"
+    },
+    "Japan": {
+        "code": "+81",
+        "identifiant": "jp",
+        "nom": "Japan",
+        "nombre": "00 0000 0000",
+        "flag_1x1": "flags/1x1/jp.svg",
+        "flag_4x3": "flags/4x3/jp.svg"
+    },
+    "Thailand": {
+        "code": "+66",
+        "identifiant": "th",
+        "nom": "Thailand",
+        "nombre": "0 0000 0000",
+        "flag_1x1": "flags/1x1/th.svg",
+        "flag_4x3": "flags/4x3/th.svg"
+    },
+    "Singapore": {
+        "code": "+65",
+        "identifiant": "sg",
+        "nom": "Singapore",
+        "nombre": "0000 0000",
+        "flag_1x1": "flags/1x1/sg.svg",
+        "flag_4x3": "flags/4x3/sg.svg"
+    },
+    "New Zealand": {
+        "code": "+64",
+        "identifiant": "nZ",
+        "nom": "New Zealand",
+        "nombre": "000 000 00",
+        "flag_1x1": "flags/1x1/nZ.svg",
+        "flag_4x3": "flags/4x3/nZ.svg"
+    },
+    "Philippines": {
+        "code": "+63",
+        "identifiant": "ph",
+        "nom": "Philippines",
+        "nombre": "000 000 0000",
+        "flag_1x1": "flags/1x1/ph.svg",
+        "flag_4x3": "flags/4x3/ph.svg"
+    },
+    "Indonesia": {
+        "code": "+62",
+        "identifiant": "iD",
+        "nom": "Indonesia",
+        "nombre": "000 000 00",
+        "flag_1x1": "flags/1x1/iD.svg",
+        "flag_4x3": "flags/4x3/iD.svg"
+    },
+    "Australia": {
+        "code": "+61",
+        "identifiant": "au",
+        "nom": "Australia",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/au.svg",
+        "flag_4x3": "flags/4x3/au.svg"
+    },
+    "Malaysia": {
+        "code": "+60",
+        "identifiant": "mY",
+        "nom": "Malaysia",
+        "nombre": "000 000 00",
+        "flag_1x1": "flags/1x1/mY.svg",
+        "flag_4x3": "flags/4x3/mY.svg"
+    },
+    "Venezuela": {
+        "code": "+58",
+        "identifiant": "ve",
+        "nom": "Venezuela",
+        "nombre": "000 000 0000",
+        "flag_1x1": "flags/1x1/ve.svg",
+        "flag_4x3": "flags/4x3/ve.svg"
+    },
+    "Colombia": {
+        "code": "+57",
+        "identifiant": "co",
+        "nom": "Colombia",
+        "nombre": "000 000 0000",
+        "flag_1x1": "flags/1x1/co.svg",
+        "flag_4x3": "flags/4x3/co.svg"
+    },
+    "Chile": {
+        "code": "+56",
+        "identifiant": "cl",
+        "nom": "Chile",
+        "nombre": "0 0000 0000",
+        "flag_1x1": "flags/1x1/cl.svg",
+        "flag_4x3": "flags/4x3/cl.svg"
+    },
+    "Brazil": {
+        "code": "+55",
+        "identifiant": "br",
+        "nom": "Brazil",
+        "nombre": "00 00000 0000",
+        "flag_1x1": "flags/1x1/br.svg",
+        "flag_4x3": "flags/4x3/br.svg"
+    },
+    "Argentina": {
+        "code": "+54",
+        "identifiant": "aR",
+        "nom": "Argentina",
+        "nombre": "000 000 00",
+        "flag_1x1": "flags/1x1/aR.svg",
+        "flag_4x3": "flags/4x3/aR.svg"
+    },
+    "Cuba": {
+        "code": "+53",
+        "identifiant": "cu",
+        "nom": "Cuba",
+        "nombre": "0000 0000",
+        "flag_1x1": "flags/1x1/cu.svg",
+        "flag_4x3": "flags/4x3/cu.svg"
+    },
+    "Mexico": {
+        "code": "+52",
+        "identifiant": "mx",
+        "nom": "Mexico",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/mx.svg",
+        "flag_4x3": "flags/4x3/mx.svg"
+    },
+    "peru": {
+        "code": "+51",
+        "identifiant": "pe",
+        "nom": "Peru",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/pe.svg",
+        "flag_4x3": "flags/4x3/pe.svg"
+    },
+    "Germany": {
+        "code": "+49",
+        "identifiant": "dE",
+        "nom": "Germany",
+        "nombre": "000 000 00",
+        "flag_1x1": "flags/1x1/dE.svg",
+        "flag_4x3": "flags/4x3/dE.svg"
+    },
+    "Poland": {
+        "code": "+48",
+        "identifiant": "pl",
+        "nom": "Poland",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/pl.svg",
+        "flag_4x3": "flags/4x3/pl.svg"
+    },
+    "Norway": {
+        "code": "+47",
+        "identifiant": "no",
+        "nom": "Norway",
+        "nombre": "0000 0000",
+        "flag_1x1": "flags/1x1/no.svg",
+        "flag_4x3": "flags/4x3/no.svg"
+    },
+    "Sweden": {
+        "code": "+46",
+        "identifiant": "se",
+        "nom": "Sweden",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/se.svg",
+        "flag_4x3": "flags/4x3/se.svg"
+    },
+    "Denmark": {
+        "code": "+45",
+        "identifiant": "dk",
+        "nom": "Denmark",
+        "nombre": "0000 0000",
+        "flag_1x1": "flags/1x1/dk.svg",
+        "flag_4x3": "flags/4x3/dk.svg"
+    },
+    "United Kingdom": {
+        "code": "+44",
+        "identifiant": "gb",
+        "nom": "United Kingdom",
+        "nombre": "0000 000000",
+        "flag_1x1": "flags/1x1/gb.svg",
+        "flag_4x3": "flags/4x3/gb.svg"
+    },
+    "Austria": {
+        "code": "+43",
+        "identifiant": "aT",
+        "nom": "Austria",
+        "nombre": "000 000 00",
+        "flag_1x1": "flags/1x1/aT.svg",
+        "flag_4x3": "flags/4x3/aT.svg"
+    },
+    "Y-land": {
+        "code": "+42",
+        "identifiant": "yt",
+        "nom": "Y-land",
+        "nombre": "000 000 00",
+        "flag_1x1": "flags/1x1/yt.svg",
+        "flag_4x3": "flags/4x3/yt.svg"
+    },
+    "Switzerland": {
+        "code": "+41",
+        "identifiant": "ch",
+        "nom": "Switzerland",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/ch.svg",
+        "flag_4x3": "flags/4x3/ch.svg"
+    },
+    "Romania": {
+        "code": "+40",
+        "identifiant": "ro",
+        "nom": "Romania",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/ro.svg",
+        "flag_4x3": "flags/4x3/ro.svg"
+    },
+    "Italy": {
+        "code": "+39",
+        "identifiant": "iT",
+        "nom": "Italy",
+        "nombre": "000 000 00",
+        "flag_1x1": "flags/1x1/iT.svg",
+        "flag_4x3": "flags/4x3/iT.svg"
+    },
+    "Hungary": {
+        "code": "+36",
+        "identifiant": "hu",
+        "nom": "Hungary",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/hu.svg",
+        "flag_4x3": "flags/4x3/hu.svg"
+    },
+    "Spain": {
+        "code": "+34",
+        "identifiant": "es",
+        "nom": "Spain",
+        "nombre": "000 000 000",
+        "flag_1x1": "flags/1x1/es.svg",
+        "flag_4x3": "flags/4x3/es.svg"
+    },
+    "France": {
+        "code": "+33",
+        "identifiant": "fr",
+        "nom": "France",
+        "nombre": "0 00 00 00 00",
+        "flag_1x1": "flags/1x1/fr.svg",
+        "flag_4x3": "flags/4x3/fr.svg"
+    },
+    "Belgium": {
+        "code": "+32",
+        "identifiant": "be",
+        "nom": "Belgium",
+        "nombre": "000 00 00 00",
+        "flag_1x1": "flags/1x1/be.svg",
+        "flag_4x3": "flags/4x3/be.svg"
+    },
+    "Netherlands": {
+        "code": "+31",
+        "identifiant": "nl",
+        "nom": "Netherlands",
+        "nombre": "0 00 00 00 00",
+        "flag_1x1": "flags/1x1/nl.svg",
+        "flag_4x3": "flags/4x3/nl.svg"
+    },
+    "Greece": {
+        "code": "+30",
+        "identifiant": "gr",
+        "nom": "Greece",
+        "nombre": "000 000 0000",
+        "flag_1x1": "flags/1x1/gr.svg",
+        "flag_4x3": "flags/4x3/gr.svg"
+    },
+    "South Africa": {
+        "code": "+27",
+        "identifiant": "za",
+        "nom": "South Africa",
+        "nombre": "00 000 0000",
+        "flag_1x1": "flags/1x1/za.svg",
+        "flag_4x3": "flags/4x3/za.svg"
+    },
+    "Egypt": {
+        "code": "+20",
+        "identifiant": "eg",
+        "nom": "Egypt",
+        "nombre": "00 0000 0000",
+        "flag_1x1": "flags/1x1/eg.svg",
+        "flag_4x3": "flags/4x3/eg.svg"
+    },
+    "Kazakhstan": {
+        "code": "+7",
+        "identifiant": "kz",
+        "nom": "Kazakhstan",
+        "nombre": "000 000 00 00",
+        "flag_1x1": "flags/1x1/kz.svg",
+        "flag_4x3": "flags/4x3/kz.svg"
+    },
+    "Russian Federation": {
+        "code": "+7",
+        "identifiant": "ru",
+        "nom": "Russian Federation",
+        "nombre": "000 000 0000",
+        "flag_1x1": "flags/1x1/ru.svg",
+        "flag_4x3": "flags/4x3/ru.svg"
+    },
+    "puuerto Rico": {
+        "code": "+1",
+        "identifiant": "pr",
+        "nom": "Puerto Rico",
+        "nombre": "000 000 0000",
+        "flag_1x1": "flags/1x1/pr.svg",
+        "flag_4x3": "flags/4x3/pr.svg"
+    },
+    "Dominican Rep.": {
+        "code": "+1",
+        "identifiant": "do",
+        "nom": "Dominican Rep.",
+        "nombre": "000 000 0000",
+        "flag_1x1": "flags/1x1/do.svg",
+        "flag_4x3": "flags/4x3/do.svg"
+    },
+    "Canada": {
+        "code": "+1",
+        "identifiant": "ca",
+        "nom": "Canada",
+        "nombre": "000 000 0000",
+        "flag_1x1": "flags/1x1/ca.svg",
+        "flag_4x3": "flags/4x3/ca.svg"
+    },
+    "USA": {
+        "code": "+1",
+        "identifiant": "us",
+        "nom": "USA",
+        "nombre": "000 000 0000",
+        "flag_1x1": "flags/1x1/us.svg",
+        "flag_4x3": "flags/4x3/us.svg"
+    }
+}

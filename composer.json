@@ -1,0 +1,14 @@
+{
+    "name": "vendor/appart",
+    "autoload": {
+        "psr-4": {
+            "Appart\\": "appart/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Séraphin NDIBWAMI",
+            "email": "93712369+seraphin-ndibwami@users.noreply.github.com"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Nom":{"type":"string"},
+    "Prenom":{"type":"string"},
+    "NumeroTel1":{
+        "type":"object",
+        "properties":{
+            "codePays":{"type":"string"},
+            "numero":{"type":"string"}
+        }
+    },
+    "NumeroTel2":{
+        "type":"object",
+        "properties":{
+        "codePays":{"type":"string"},
+        "numero":{"type":"string"}}
+    },
+    "addresse1":{
+        "type":"object",
+        "properties":{
+        "Ville":{"type":"string"},
+        "commune":{"type":"string"},
+        "quartier":{"type":"string"},
+        "avenu":{"type":"string"},
+        "Numero":{"type":"string"}}
+
+    },
+    "addresse2":{
+        "type":"object",
+        "properties":{
+        "Ville":{"type":"string"},
+        "commune":{"type":"string"},
+        "quartier":{"type":"string"},
+        "avenu":{"type":"string"},
+        "Numero":{"type":"string"}}
+    },
+    "images":{"type":"string"},
+    "codePostal":{"type":"string"},
+    "mail":{"type":"string"}
+}
